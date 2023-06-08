@@ -1,10 +1,12 @@
-import & modules
+<h1>Import & Modules</h1>
 
-Learning Objectives
+<h2>Learning Objectives</h2>
+<ol>
+  <li>How to import functions from another file</li>
+  <li>How to use imported functions</li>
+  <li>How to create a module</li>
+  <li>How to use the built-in function dir()</li>
+  <li>How to prevent code in your script from being executed when imported</li>
+  <li>How to use command line arguments with your Python programs</li>
+</ol>
 
-How to import functions from another file
-How to use imported functions
-How to create a module
-How to use the built-in function dir()
-How to prevent code in your script from being executed when imported
-How to use command line arguments with your Python programs
