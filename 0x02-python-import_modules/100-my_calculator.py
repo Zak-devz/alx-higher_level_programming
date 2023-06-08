@@ -12,7 +12,7 @@ if __name__ == "__main__":
     operator = sys.argv[2]
 
     if operator == '+':
-        print("{} + {} = {}".format(a, b, calculator_1.add(a, b)))
+        print("{} + {} = {}".format(a, b, add(a, b)))
     elif (operator == '-'):
         print("{} - {} = {}".format(a, b, calulator_1.sub(a, b)))
     elif (operator == '*'):
