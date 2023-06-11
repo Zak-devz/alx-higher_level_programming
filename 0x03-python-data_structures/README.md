@@ -1,8 +1,4 @@
-<head>
-  <title>0x03. Python - Data Structures: Lists, Tuples</title>
-</head>
-<body>
-  <h1>0x03. Python - Data Structures: Lists, Tuples</h1>
+<h1>0x03. Python - Data Structures: Lists, Tuples</h1>
   
   <p>In this project, I learned about how sequence data types work in Python - specifically, lists and tuples.</p>
   
