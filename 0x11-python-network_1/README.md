@@ -1,0 +1,4 @@
+<h1>Python - Network #1</h1>
+
+<p>This project involved learning how to use the urllib and requests Python libraries to send and receive HTTP messages to URL's. I practiced sending GET and POST requests, fetching JSON resources, and interacting with API's.</p>
+
